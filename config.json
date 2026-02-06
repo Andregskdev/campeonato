@@ -1,0 +1,16 @@
+{
+    "users": {
+        "admin": {
+            "senha": "admin",
+            "role": "admin"
+        },
+        "visitante": {
+            "senha": "visitante",
+            "role": "visitante"
+        }
+    },
+    "default_campeonato": {
+        "nome": "Copa do Brasil",
+        "ano": 2024
+    }
+}
